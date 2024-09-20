@@ -319,6 +319,12 @@ body {
     
 }
 
+.email-text a {
+
+    text-decoration: none;
+    color: var(--main-color);
+}
+
 
 /* PORTAFOLIO */
 .presentacion__portafolio {
