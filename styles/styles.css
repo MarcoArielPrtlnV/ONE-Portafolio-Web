@@ -564,6 +564,12 @@ body {
         font-size: 1.3rem;
     }
 
+    .email-text a {
+
+        text-decoration: none;
+        color: var(--main-color);
+    }
+
     .titulo {
 
         margin-right: -238px;
@@ -666,6 +672,12 @@ body {
     .email p {
 
         margin-left: 30px;
+    }
+
+    .email-text a {
+
+        text-decoration: none;
+        color: var(--main-color);
     }
 
 
